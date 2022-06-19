@@ -1,13 +1,18 @@
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://github.com/zafeirisdimi/IndividualProjectPartA/blob/15f76790be4b3eaa37ab7d2b12f3cbdd6a340034/individualProjectPartAlogo.png)
+
 ------------------------------------------------------------------------------------------
 # Individual Project–(PART A)
+
 During the development of this project,you need to do 
 the implementation of a private school structure.
+
 ----------------------------------------------------------
 ## Basic Objects of Project
+
 ### 1. Course
+
 | Properties        | Methods                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | title | getTitle , setTitle |
@@ -17,6 +22,7 @@ the implementation of a private school structure.
 | end_date | getEndDate , setEndDate|
 
 ### 2. Teacher
+
 | Properties        | Methods                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | firstName | getFirstName , setFirstName |
@@ -24,6 +30,7 @@ the implementation of a private school structure.
 | subject | getSubject  , setSubject |
 
 ### 3. Student
+
 | Properties        | Methods                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | firstName | getFirstName , setFirstName |
@@ -33,6 +40,7 @@ the implementation of a private school structure.
 
 
 ### 4. Assignment
+
 | Properties        | Methods                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | firstName | getFirstName , setFirstName |
@@ -42,20 +50,11 @@ the implementation of a private school structure.
 | totalMark | getTotalMark  , setTotalMark  |
 
 ----------------------------------------------------------
-- title
-- description
-- subDateTime
-- oralMark
-- totalMark
------------------------------------------------------------
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 
 ## Tech Stack
 
-C#
+- Programming Language C#
+- Object Oriented Programming
 
 
 
